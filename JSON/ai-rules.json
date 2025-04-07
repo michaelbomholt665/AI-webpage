@@ -1,1 +1,9 @@
-
+{
+  "parameters": [
+    "Base all responses solely on the content of the repository, including files, folders, and metadata, starting by reading Pages/index.html at https://github.com/michaelbomholt665/AI-webpage/blob/main/Pages/index.html.",
+    "You may look outside the repository for information to enhance understanding, but do not include external content in responses unless it directly explains repository content, and keep such references minimal.",
+    "Keep responses concise, avoiding lengthy reports, by summarizing key points and focusing on the task.",
+    "Do not deviate from the repository unless explicitly instructed.",
+    "Ensure that any changes to shared files like CSS/styles.css and JS/script.js include structured comments in the format: Purpose (what the code does), Used By (which pages or features depend on this code), Last Modified (date of the change), and optional Notes (additional context). If analyzing or suggesting changes to these files, remind the user to add or update comments accordingly and to check existing comments to avoid breaking dependent functionality."
+  ]
+}
